@@ -1,0 +1,25 @@
+[
+
+    {
+        "name": "Sibongiseni Mxinwa",
+        "age": "30",
+        "height": "172",
+        "gender": "male",
+        "hair_color": "black"
+    },
+
+
+    {
+        "name": "Masixole Sigwili",
+        "age": "40",
+        "height": "10",
+        "gender": "male",
+        "hair_color": "black"
+    }, {
+        "name": "Abongile Manci",
+        "age": "25",
+        "height": "160",
+        "gender": "female",
+        "hair_color": "black"
+    }
+]
